@@ -2,4 +2,5 @@ fuzzywuzzy==0.3.0
 flask== 1.0.2
 jsonify ==0.5
 request == 2019.3.22
+gunicorn == 19.9.0
 
